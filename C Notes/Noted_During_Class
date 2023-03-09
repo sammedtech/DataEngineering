@@ -1,0 +1,34 @@
+Programming Language : 
+	Way to communicate with hardwares in your system
+
+C, CPP, Python, JAVA, Cobalt, C#, JavaScript etc.
+
+C Language:
+	Programs : Instructions to system
+	File Extension : .c
+
+Computer understand 1 and 0.
+
+Compiler : Compiler is a program that converts human readable code to system code and also checks for syntax errors
+
+make <file_name> --> compiler will generate machine code for your .c file
+./<file_name> --> run the binary file created by compiler
+
+
+Data Type --> 
+
+What is Data? --> Any information
+What are Data Types --> 
+	age : 20, 22, 40, 32, 34 --> Numeric fields
+	name : "Akash", "Vijay", "Laxman" --> Text
+
+	Integer --> Whole Number
+	String --> Any text data
+	Float --> Decimal Values
+	Boolean --> True/False
+	Date --> Date Values
+
+What are Variables? --> Data Storage Devices
+
+
+\n --> escape character, to add a new line on screen
