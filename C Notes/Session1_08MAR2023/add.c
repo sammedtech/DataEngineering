@@ -1,9 +1,9 @@
 #include <stdio.h> // header file
 
 int main(){ // entry point
-    int first_val; // variable declaration
-    int second_val;
-    first_val = 10; // variable definition
-    second_val = 20;
-    printf("The total sum : %d\n", first_val+second_val);
+    int val1; // variable declaration
+    int val2;
+    val1 = 10; // variable definition
+    val2 = 20;
+    printf("The total sum : %d\n", val1+val2);
 }
