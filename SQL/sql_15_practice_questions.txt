@@ -1,0 +1,33 @@
+Q.1 Write a Query to display the date after 15 days? 
+
+Q.2 Write a Query to display the date after 12 months?
+
+Q.3 Write a Query to display the date before 15 days? 
+
+
+Suppose you've employee table with columns as : 
+id, name, date_of_birth, dept, date_of_joining, salary, gender, city
+
+Q.4 Write a Query to display employee details along with exp?
+
+Q.5 Write a Query to display employee details who is working in ECE department & who his having more than 3 years of exp?
+
+Q.6 Write a Query to display employee details whose age >18?
+
+Q.7 Write a Query to display the total salary of all employees?
+
+Q.8 Write a Query to count the number of employees working in the company?
+
+Q.9 Write a Query to display the minimum & maximum salary of the employee?
+
+Q.10 Write a Query to display the third max salary of an employee?
+
+Q.11 Write a Query to display the total salary of employees based on the city?
+
+Q.12 Write a Query to display minimum salary & maximum salary based on dept_name?
+
+Q.13 Write a Query to display no. of males in each department?
+
+Q.14 Write a Query to display the total salary of employees based on whose total salary > 12000?
+
+Q.15 Write a query to find the names of employees that begin with ‘S’
