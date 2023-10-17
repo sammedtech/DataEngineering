@@ -1,0 +1,1225 @@
+Client;Company Code;Account Type;Account: List of Business Transactions;Document Type;Language Key;Document Type Description
+030;ATAU;D;R;OD;E;customer OP transfer
+030;ATAU;K;G;RE;E;Invoice receipt
+030;ATAU;D;R;SA;E;G/L account document
+030;ATAU;D;G;SB;E;G/L account posting
+030;ATBE;K;G;RE;E;Invoice receipt
+030;ATBE;K;G;SA;E;G/L account document
+030;ATBE;K;G;SB;E;G/L account posting
+030;ATHL;D;G;AB;E;Accounting document
+030;ATHL;D;R;DR;E;Customer invoice
+030;ATHL;K;G;KR;E;Vendor invoice
+030;ATHL;D;R;OD;E;customer OP transfer
+030;ATHL;K;G;OK;E;supplier OP transfer
+030;ATHL;K;G;RA;E;Sub.cred.memo stlmt
+030;ATHL;K;G;RE;E;Invoice receipt
+030;ATHL;D;R;SA;E;G/L account document
+030;ATHL;D;G;SB;E;G/L account posting
+030;ATHL;K;G;ZP;E;Payment posting
+030;ATKA;D;G;AB;E;Accounting document
+030;ATKA;D;R;DA;E;Customer document
+030;ATKA;D;G;DG;E;Customer credit memo
+030;ATKA;D;R;DR;E;Customer invoice
+030;ATKA;D;R;DV;E;Customer billing doc
+030;ATKA;D;G;DZ;E;Customer payment
+030;ATKA;K;G;KA;E;Vendor document
+030;ATKA;K;G;KR;E;Vendor invoice
+030;ATKA;K;G;KZ;E;Vendor payment
+030;ATKA;D;G;OD;E;customer OP transfer
+030;ATKA;K;G;RA;E;Sub.cred.memo stlmt
+030;ATKA;K;G;RE;E;Invoice receipt
+030;ATKA;D;R;SA;E;G/L account document
+030;ATKA;K;G;SB;E;G/L account posting
+030;ATKA;K;G;ZP;E;Payment posting
+030;ATPA;D;R;AB;E;Accounting document
+030;ATPA;D;G;DG;E;Customer credit memo
+030;ATPA;D;R;DR;E;Customer invoice
+030;ATPA;D;R;DV;E;Customer billing doc
+030;ATPA;D;G;DZ;E;Customer payment
+030;ATPA;K;G;KG;E;Vendor credit memo
+030;ATPA;K;G;KR;E;Vendor invoice
+030;ATPA;K;G;KZ;E;Vendor payment
+030;ATPA;K;G;RN;E;Net invoice receipt
+030;ATPA;D;R;SA;E;G/L account document
+030;ATPA;K;G;SB;E;G/L account posting
+030;ATPA;K;G;ZV;E;Payment clearing
+030;ATWP;D;G;AB;E;Accounting document
+030;ATWP;D;G;DG;E;Customer credit memo
+030;ATWP;D;R;DR;E;Customer invoice
+030;ATWP;D;G;DZ;E;Customer payment
+030;ATWP;K;G;KG;E;Vendor credit memo
+030;ATWP;K;G;KR;E;Vendor invoice
+030;ATWP;K;G;KZ;E;Vendor payment
+030;ATWP;K;G;RN;E;Net invoice receipt
+030;ATWP;D;G;SA;E;G/L account document
+030;ATWP;K;G;ZM;E;Invoice receipt - RO
+030;ATWP;K;G;ZP;E;Payment posting
+030;ATWP;K;G;ZV;E;Payment clearing
+030;CZBO;D;G;AB;E;Accounting document
+030;CZBO;D;R;DA;E;Customer document
+030;CZBO;D;G;DG;E;Customer credit memo
+030;CZBO;D;R;DR;E;Customer invoice
+030;CZBO;D;R;DV;E;Customer billing doc
+030;CZBO;D;G;DZ;E;Customer payment
+030;CZBO;K;G;KA;E;Vendor document
+030;CZBO;K;G;KG;E;Vendor credit memo
+030;CZBO;K;G;KM;E;Vendor Manual TrdPrt
+030;CZBO;K;G;KR;E;Vendor invoice
+030;CZBO;K;G;RE;E;Invoice receipt
+030;CZBO;D;G;RV;E;Billing doc.transfer
+030;CZBO;K;G;SA;E;G/L account document
+030;CZBO;D;G;SN;E;netting trading part
+030;CZBO;D;G;ZP;E;Payment posting
+030;CZBO;D;R;ZV;E;Payment clearing
+030;CZJD;D;R;AB;E;Accounting document
+030;CZJD;D;G;DG;E;Customer credit memo
+030;CZJD;D;R;DR;E;Customer invoice
+030;CZJD;D;R;DV;E;Customer billing doc
+030;CZJD;D;G;DZ;E;Customer payment
+030;CZJD;K;G;KA;E;Vendor document
+030;CZJD;K;G;KG;E;Vendor credit memo
+030;CZJD;K;G;KR;E;Vendor invoice
+030;CZJD;D;G;SN;E;netting trading part
+030;CZJD;D;G;ZP;E;Payment posting
+030;CZJD;K;G;ZV;E;Payment clearing
+030;CZJI;D;R;AB;E;Accounting document
+030;CZJI;D;R;DA;E;Customer document
+030;CZJI;D;G;DG;E;Customer credit memo
+030;CZJI;D;R;DR;E;Customer invoice
+030;CZJI;D;R;DV;E;Customer billing doc
+030;CZJI;D;G;DZ;E;Customer payment
+030;CZJI;K;G;KA;E;Vendor document
+030;CZJI;K;G;KG;E;Vendor credit memo
+030;CZJI;K;G;KM;E;Vendor Manual TrdPrt
+030;CZJI;K;G;KR;E;Vendor invoice
+030;CZJI;K;G;KZ;E;Vendor payment
+030;CZJI;K;G;RE;E;Invoice receipt
+030;CZJI;D;G;RV;E;Billing doc.transfer
+030;CZJI;K;G;SA;E;G/L account document
+030;CZJI;D;G;SN;E;netting trading part
+030;CZJI;D;G;ZP;E;Payment posting
+030;CZJI;D;R;ZV;E;Payment clearing
+030;CZOB;D;R;AB;E;Accounting document
+030;CZOB;D;R;DV;E;Customer billing doc
+030;CZOB;D;G;DZ;E;Customer payment
+030;CZOB;K;G;KA;E;Vendor document
+030;CZOB;K;G;KG;E;Vendor credit memo
+030;CZOB;K;G;KR;E;Vendor invoice
+030;CZOB;K;G;KZ;E;Vendor payment
+030;CZOB;D;R;OD;E;customer OP transfer
+030;CZOB;K;G;RE;E;Invoice receipt
+030;CZOB;K;G;SA;E;G/L account document
+030;CZOB;D;G;SN;E;netting trading part
+030;CZOB;D;G;ZP;E;Payment posting
+030;CZOB;D;G;ZV;E;Payment clearing
+030;CZSC;D;G;AB;E;Accounting document
+030;CZSC;D;R;DA;E;Customer document
+030;CZSC;D;G;DG;E;Customer credit memo
+030;CZSC;D;R;DR;E;Customer invoice
+030;CZSC;D;R;DV;E;Customer billing doc
+030;CZSC;D;G;DZ;E;Customer payment
+030;CZSC;K;G;KA;E;Vendor document
+030;CZSC;K;G;KG;E;Vendor credit memo
+030;CZSC;K;G;KM;E;Vendor Manual TrdPrt
+030;CZSC;K;G;KR;E;Vendor invoice
+030;CZSC;K;G;KZ;E;Vendor payment
+030;CZSC;K;G;RE;E;Invoice receipt
+030;CZSC;D;R;SA;E;G/L account document
+030;CZSC;D;G;SN;E;netting trading part
+030;CZSC;D;G;ZP;E;Payment posting
+030;CZSC;D;R;ZV;E;Payment clearing
+030;CZSP;D;G;AB;E;Accounting document
+030;CZSP;D;R;DA;E;Customer document
+030;CZSP;D;G;DG;E;Customer credit memo
+030;CZSP;D;R;DR;E;Customer invoice
+030;CZSP;D;R;DV;E;Customer billing doc
+030;CZSP;D;G;DZ;E;Customer payment
+030;CZSP;K;G;KA;E;Vendor document
+030;CZSP;K;G;KG;E;Vendor credit memo
+030;CZSP;K;G;KM;E;Vendor Manual TrdPrt
+030;CZSP;K;G;KR;E;Vendor invoice
+030;CZSP;K;G;RE;E;Invoice receipt
+030;CZSP;D;G;RV;E;Billing doc.transfer
+030;CZSP;K;G;SA;E;G/L account document
+030;CZSP;D;G;SN;E;netting trading part
+030;CZSP;D;G;ZP;E;Payment posting
+030;CZSP;D;R;ZV;E;Payment clearing
+030;DEAF;D;G;AB;E;Accounting document
+030;DEAF;D;R;DA;E;Customer document
+030;DEAF;D;G;DG;E;Customer credit memo
+030;DEAF;D;R;DR;E;Customer invoice
+030;DEAF;D;R;DZ;E;Customer payment
+030;DEAF;D;R;KA;E;Vendor document
+030;DEAF;K;G;RE;E;Invoice receipt
+030;DEAF;K;G;RN;E;Net invoice receipt
+030;DEAF;D;R;SA;E;G/L account document
+030;DEAF;K;G;SB;E;G/L account posting
+030;DEAF;D;G;ZA;E;Customer invoice
+030;DEAF;D;G;ZE;E;Incoming payment
+030;DEAF;D;G;ZF;E;Factoring
+030;DEAF;D;R;ZG;E;'Line item tradepart
+030;DEAF;D;R;ZP;E;Payment posting
+030;DEAF;D;R;ZZ;E;Customer invoice
+030;DEAN;D;G;AB;E;Accounting document
+030;DEAN;D;R;DA;E;Customer document
+030;DEAN;D;G;DG;E;Customer credit memo
+030;DEAN;D;R;DN;E;Customer invoice
+030;DEAN;D;R;DR;E;Customer invoice
+030;DEAN;D;R;DZ;E;Customer payment
+030;DEAN;K;G;KA;E;Vendor document
+030;DEAN;K;G;KR;E;Vendor invoice
+030;DEAN;K;G;RE;E;Invoice receipt
+030;DEAN;K;G;RN;E;Net invoice receipt
+030;DEAN;K;G;SA;E;G/L account document
+030;DEAN;K;G;SB;E;G/L account posting
+030;DEAN;D;R;ZA;E;Customer invoice
+030;DEAN;D;G;ZE;E;Incoming payment
+030;DEAN;D;G;ZF;E;Factoring
+030;DEAN;K;G;ZG;E;'Line item tradepart
+030;DEAN;D;R;ZI;E;CM Proc Credit Memo
+030;DEAN;D;G;ZJ;E;CM Proc Debit Memo
+030;DEAN;D;R;ZP;E;Payment posting
+030;DEAN;D;R;ZV;E;Payment clearing
+030;DEAN;D;R;ZZ;E;Customer invoice
+030;DEAR;D;G;AB;E;Accounting document
+030;DEAR;D;G;DA;E;Customer document
+030;DEAR;D;G;DG;E;Customer credit memo
+030;DEAR;D;R;DR;E;Customer invoice
+030;DEAR;D;G;DZ;E;Customer payment
+030;DEAR;K;G;KA;E;Vendor document
+030;DEAR;K;G;KR;E;Vendor invoice
+030;DEAR;K;G;RE;E;Invoice receipt
+030;DEAR;K;G;RN;E;Net invoice receipt
+030;DEAR;D;R;SA;E;G/L account document
+030;DEAR;K;G;SB;E;G/L account posting
+030;DEAR;D;G;ZA;E;Customer invoice
+030;DEAR;D;G;ZE;E;Incoming payment
+030;DEAR;D;G;ZF;E;Factoring
+030;DEAR;D;G;ZG;E;'Line item tradepart
+030;DEAR;D;R;ZI;E;CM Proc Credit Memo
+030;DEAR;D;G;ZJ;E;CM Proc Debit Memo
+030;DEAR;D;R;ZP;E;Payment posting
+030;DEAR;D;R;ZV;E;Payment clearing
+030;DEAR;D;R;ZZ;E;Customer invoice
+030;DEBH;D;G;DZ;E;Customer payment
+030;DEBH;D;R;SA;E;G/L account document
+030;DEBH;K;G;ZP;E;Payment posting
+030;DEBL;D;G;AB;E;Accounting document
+030;DEBL;D;G;DA;E;Customer document
+030;DEBL;D;G;DG;E;Customer credit memo
+030;DEBL;D;R;DR;E;Customer invoice
+030;DEBL;D;G;DZ;E;Customer payment
+030;DEBL;K;G;KA;E;Vendor document
+030;DEBL;K;G;KR;E;Vendor invoice
+030;DEBL;K;G;RE;E;Invoice receipt
+030;DEBL;K;G;RN;E;Net invoice receipt
+030;DEBL;D;G;SA;E;G/L account document
+030;DEBL;K;G;SB;E;G/L account posting
+030;DEBL;D;R;ZA;E;Customer invoice
+030;DEBL;D;G;ZE;E;Incoming payment
+030;DEBL;D;R;ZF;E;Factoring
+030;DEBL;D;R;ZP;E;Payment posting
+030;DEBL;D;G;ZV;E;Payment clearing
+030;DEBL;D;R;ZZ;E;Customer invoice
+030;DEBT;D;G;AB;E;Accounting document
+030;DEBT;D;R;DA;E;Customer document
+030;DEBT;D;G;DG;E;Customer credit memo
+030;DEBT;D;R;DR;E;Customer invoice
+030;DEBT;D;G;DZ;E;Customer payment
+030;DEBT;K;G;RE;E;Invoice receipt
+030;DEBT;K;G;RN;E;Net invoice receipt
+030;DEBT;K;G;SB;E;G/L account posting
+030;DEBT;K;G;ZG;E;'Line item tradepart
+030;DEBT;K;G;ZP;E;Payment posting
+030;DEDO;D;R;AB;E;Accounting document
+030;DEDO;D;G;DA;E;Customer document
+030;DEDO;D;G;DG;E;Customer credit memo
+030;DEDO;D;R;DR;E;Customer invoice
+030;DEDO;D;R;DZ;E;Customer payment
+030;DEDO;K;G;KA;E;Vendor document
+030;DEDO;K;G;KR;E;Vendor invoice
+030;DEDO;K;G;RE;E;Invoice receipt
+030;DEDO;K;G;RN;E;Net invoice receipt
+030;DEDO;D;G;SA;E;G/L account document
+030;DEDO;K;G;SB;E;G/L account posting
+030;DEDO;D;R;ZA;E;Customer invoice
+030;DEDO;D;G;ZE;E;Incoming payment
+030;DEDO;D;G;ZF;E;Factoring
+030;DEDO;D;R;ZI;E;CM Proc Credit Memo
+030;DEDO;D;G;ZJ;E;CM Proc Debit Memo
+030;DEDO;D;R;ZP;E;Payment posting
+030;DEDO;D;G;ZV;E;Payment clearing
+030;DEDO;D;R;ZZ;E;Customer invoice
+030;DEEN;D;R;AB;E;Accounting document
+030;DEEN;D;G;DA;E;Customer document
+030;DEEN;D;G;DG;E;Customer credit memo
+030;DEEN;D;R;DM;E;Customer Man Trdprt
+030;DEEN;D;R;DR;E;Customer invoice
+030;DEEN;D;G;DZ;E;Customer payment
+030;DEEN;K;G;KA;E;Vendor document
+030;DEEN;K;G;KR;E;Vendor invoice
+030;DEEN;D;G;OD;E;customer OP transfer
+030;DEEN;K;G;RE;E;Invoice receipt
+030;DEEN;K;G;RN;E;Net invoice receipt
+030;DEEN;K;G;SA;E;G/L account document
+030;DEEN;K;G;SB;E;G/L account posting
+030;DEEN;D;G;ZE;E;Incoming payment
+030;DEEN;D;R;ZI;E;CM Proc Credit Memo
+030;DEEN;D;G;ZJ;E;CM Proc Debit Memo
+030;DEEN;D;R;ZP;E;Payment posting
+030;DEEN;D;G;ZV;E;Payment clearing
+030;DEER;D;G;AB;E;Accounting document
+030;DEER;D;G;DA;E;Customer document
+030;DEER;D;G;DG;E;Customer credit memo
+030;DEER;D;R;DR;E;Customer invoice
+030;DEER;D;R;DV;E;Customer billing doc
+030;DEER;D;G;DZ;E;Customer payment
+030;DEER;D;R;KA;E;Vendor document
+030;DEER;K;G;KG;E;Vendor credit memo
+030;DEER;K;G;KR;E;Vendor invoice
+030;DEER;D;G;OD;E;customer OP transfer
+030;DEER;K;G;RE;E;Invoice receipt
+030;DEER;K;G;RN;E;Net invoice receipt
+030;DEER;D;G;SA;E;G/L account document
+030;DEER;K;G;SB;E;G/L account posting
+030;DEER;D;R;ZA;E;Customer invoice
+030;DEER;D;G;ZE;E;Incoming payment
+030;DEER;D;G;ZF;E;Factoring
+030;DEER;D;R;ZG;E;'Line item tradepart
+030;DEER;D;R;ZI;E;CM Proc Credit Memo
+030;DEER;D;G;ZJ;E;CM Proc Debit Memo
+030;DEER;D;R;ZP;E;Payment posting
+030;DEER;D;R;ZV;E;Payment clearing
+030;DEER;D;R;ZZ;E;Customer invoice
+030;DEFD;D;G;AB;E;Accounting document
+030;DEFD;D;G;DA;E;Customer document
+030;DEFD;D;G;DG;E;Customer credit memo
+030;DEFD;D;R;DN;E;Customer invoice
+030;DEFD;D;R;DR;E;Customer invoice
+030;DEFD;D;R;DZ;E;Customer payment
+030;DEFD;K;G;KA;E;Vendor document
+030;DEFD;K;G;KG;E;Vendor credit memo
+030;DEFD;K;G;KR;E;Vendor invoice
+030;DEFD;K;G;RE;E;Invoice receipt
+030;DEFD;K;G;RN;E;Net invoice receipt
+030;DEFD;K;G;SA;E;G/L account document
+030;DEFD;K;G;SB;E;G/L account posting
+030;DEFD;D;G;ZA;E;Customer invoice
+030;DEFD;D;G;ZE;E;Incoming payment
+030;DEFD;D;G;ZF;E;Factoring
+030;DEFD;K;G;ZG;E;'Line item tradepart
+030;DEFD;D;R;ZI;E;CM Proc Credit Memo
+030;DEFD;D;G;ZJ;E;CM Proc Debit Memo
+030;DEFD;D;G;ZP;E;Payment posting
+030;DEFD;D;R;ZV;E;Payment clearing
+030;DEFD;D;R;ZZ;E;Customer invoice
+030;DEHD;D;R;AB;E;Accounting document
+030;DEHD;D;G;DA;E;Customer document
+030;DEHD;D;G;DG;E;Customer credit memo
+030;DEHD;D;R;DR;E;Customer invoice
+030;DEHD;D;G;DZ;E;Customer payment
+030;DEHD;K;G;KA;E;Vendor document
+030;DEHD;K;G;KG;E;Vendor credit memo
+030;DEHD;K;G;KR;E;Vendor invoice
+030;DEHD;K;G;RE;E;Invoice receipt
+030;DEHD;K;G;RN;E;Net invoice receipt
+030;DEHD;K;G;SA;E;G/L account document
+030;DEHD;K;G;SB;E;G/L account posting
+030;DEHD;D;R;ZA;E;Customer invoice
+030;DEHD;D;G;ZE;E;Incoming payment
+030;DEHD;D;G;ZF;E;Factoring
+030;DEHD;K;G;ZG;E;'Line item tradepart
+030;DEHD;D;R;ZP;E;Payment posting
+030;DEHD;D;G;ZV;E;Payment clearing
+030;DEHD;D;G;ZZ;E;Customer invoice
+030;DEHM;D;R;DA;E;Customer document
+030;DEHM;K;G;KA;E;Vendor document
+030;DEHM;K;G;OK;E;supplier OP transfer
+030;DEHM;K;G;RE;E;Invoice receipt
+030;DEHM;K;G;RN;E;Net invoice receipt
+030;DEHM;D;G;ZA;E;Customer invoice
+030;DEHM;D;G;ZV;E;Payment clearing
+030;DEHM;D;R;ZZ;E;Customer invoice
+030;DEHN;D;G;AB;E;Accounting document
+030;DEHN;D;G;DA;E;Customer document
+030;DEHN;D;G;DG;E;Customer credit memo
+030;DEHN;D;R;DR;E;Customer invoice
+030;DEHN;D;R;DV;E;Customer billing doc
+030;DEHN;D;R;DZ;E;Customer payment
+030;DEHN;K;G;KA;E;Vendor document
+030;DEHN;K;G;KR;E;Vendor invoice
+030;DEHN;K;G;RE;E;Invoice receipt
+030;DEHN;K;G;RN;E;Net invoice receipt
+030;DEHN;D;G;SA;E;G/L account document
+030;DEHN;K;G;SB;E;G/L account posting
+030;DEHN;D;G;ZA;E;Customer invoice
+030;DEHN;D;G;ZF;E;Factoring
+030;DEHN;D;G;ZP;E;Payment posting
+030;DEHN;D;R;ZV;E;Payment clearing
+030;DEHN;D;R;ZZ;E;Customer invoice
+030;DEHO;D;G;AB;E;Accounting document
+030;DEHO;D;G;DA;E;Customer document
+030;DEHO;D;G;DZ;E;Customer payment
+030;DEHO;D;R;KA;E;Vendor document
+030;DEHO;K;G;RE;E;Invoice receipt
+030;DEHO;K;G;RN;E;Net invoice receipt
+030;DEHO;D;R;SA;E;G/L account document
+030;DEHO;D;R;SB;E;G/L account posting
+030;DEHO;D;G;ZA;E;Customer invoice
+030;DEHO;D;G;ZG;E;'Line item tradepart
+030;DEHO;K;G;ZP;E;Payment posting
+030;DEHO;D;G;ZV;E;Payment clearing
+030;DEHV;D;R;AB;E;Accounting document
+030;DEHV;D;G;DA;E;Customer document
+030;DEHV;D;G;DG;E;Customer credit memo
+030;DEHV;D;R;DN;E;Customer invoice
+030;DEHV;D;R;DR;E;Customer invoice
+030;DEHV;D;G;DZ;E;Customer payment
+030;DEHV;K;G;KA;E;Vendor document
+030;DEHV;K;G;KR;E;Vendor invoice
+030;DEHV;K;G;RE;E;Invoice receipt
+030;DEHV;K;G;RN;E;Net invoice receipt
+030;DEHV;K;G;SA;E;G/L account document
+030;DEHV;K;G;SB;E;G/L account posting
+030;DEHV;D;G;ZA;E;Customer invoice
+030;DEHV;D;G;ZE;E;Incoming payment
+030;DEHV;D;G;ZF;E;Factoring
+030;DEHV;D;R;ZI;E;CM Proc Credit Memo
+030;DEHV;D;R;ZP;E;Payment posting
+030;DEHV;D;R;ZV;E;Payment clearing
+030;DEHV;D;G;ZZ;E;Customer invoice
+030;DELA;K;G;AB;E;Accounting document
+030;DELA;D;G;DA;E;Customer document
+030;DELA;D;G;DG;E;Customer credit memo
+030;DELA;D;R;DR;E;Customer invoice
+030;DELA;D;R;DZ;E;Customer payment
+030;DELA;K;G;KA;E;Vendor document
+030;DELA;K;G;KR;E;Vendor invoice
+030;DELA;K;G;RE;E;Invoice receipt
+030;DELA;K;G;RN;E;Net invoice receipt
+030;DELA;K;G;SA;E;G/L account document
+030;DELA;K;G;SB;E;G/L account posting
+030;DELA;D;R;ZA;E;Customer invoice
+030;DELA;D;G;ZE;E;Incoming payment
+030;DELA;D;G;ZF;E;Factoring
+030;DELA;D;R;ZI;E;CM Proc Credit Memo
+030;DELA;D;R;ZP;E;Payment posting
+030;DELA;D;G;ZV;E;Payment clearing
+030;DELA;D;R;ZZ;E;Customer invoice
+030;DEMI;D;R;AB;E;Accounting document
+030;DEMI;D;G;DA;E;Customer document
+030;DEMI;D;G;DG;E;Customer credit memo
+030;DEMI;D;R;DN;E;Customer invoice
+030;DEMI;D;R;DR;E;Customer invoice
+030;DEMI;D;G;DZ;E;Customer payment
+030;DEMI;K;G;KA;E;Vendor document
+030;DEMI;K;G;KR;E;Vendor invoice
+030;DEMI;K;G;RE;E;Invoice receipt
+030;DEMI;K;G;RN;E;Net invoice receipt
+030;DEMI;D;G;SA;E;G/L account document
+030;DEMI;K;G;SB;E;G/L account posting
+030;DEMI;D;R;ZA;E;Customer invoice
+030;DEMI;D;G;ZE;E;Incoming payment
+030;DEMI;D;R;ZF;E;Factoring
+030;DEMI;D;G;ZG;E;'Line item tradepart
+030;DEMI;D;R;ZI;E;CM Proc Credit Memo
+030;DEMI;D;G;ZJ;E;CM Proc Debit Memo
+030;DEMI;D;R;ZP;E;Payment posting
+030;DEMI;D;R;ZV;E;Payment clearing
+030;DEMI;D;R;ZZ;E;Customer invoice
+030;DENO;D;R;AB;E;Accounting document
+030;DENO;D;G;DA;E;Customer document
+030;DENO;D;G;DG;E;Customer credit memo
+030;DENO;D;R;DR;E;Customer invoice
+030;DENO;D;R;DZ;E;Customer payment
+030;DENO;K;G;KA;E;Vendor document
+030;DENO;K;G;KR;E;Vendor invoice
+030;DENO;K;G;RE;E;Invoice receipt
+030;DENO;K;G;RN;E;Net invoice receipt
+030;DENO;D;G;SA;E;G/L account document
+030;DENO;K;G;SB;E;G/L account posting
+030;DENO;D;G;ZA;E;Customer invoice
+030;DENO;D;G;ZE;E;Incoming payment
+030;DENO;D;G;ZF;E;Factoring
+030;DENO;D;R;ZI;E;CM Proc Credit Memo
+030;DENO;D;G;ZJ;E;CM Proc Debit Memo
+030;DENO;D;R;ZP;E;Payment posting
+030;DENO;D;G;ZV;E;Payment clearing
+030;DENO;D;R;ZZ;E;Customer invoice
+030;DEPA;D;R;AB;E;Accounting document
+030;DEPA;D;R;DA;E;Customer document
+030;DEPA;D;G;DG;E;Customer credit memo
+030;DEPA;D;R;DM;E;Customer Man Trdprt
+030;DEPA;D;R;DR;E;Customer invoice
+030;DEPA;D;R;DZ;E;Customer payment
+030;DEPA;K;G;KA;E;Vendor document
+030;DEPA;K;G;KR;E;Vendor invoice
+030;DEPA;K;G;RE;E;Invoice receipt
+030;DEPA;K;G;RN;E;Net invoice receipt
+030;DEPA;D;G;SA;E;G/L account document
+030;DEPA;K;G;SB;E;G/L account posting
+030;DEPA;D;R;ZA;E;Customer invoice
+030;DEPA;D;G;ZE;E;Incoming payment
+030;DEPA;D;G;ZF;E;Factoring
+030;DEPA;K;G;ZG;E;'Line item tradepart
+030;DEPA;D;R;ZI;E;CM Proc Credit Memo
+030;DEPA;D;G;ZJ;E;CM Proc Debit Memo
+030;DEPA;D;G;ZP;E;Payment posting
+030;DEPA;D;R;ZV;E;Payment clearing
+030;DEPA;D;R;ZZ;E;Customer invoice
+030;DEPK;D;G;AB;E;Accounting document
+030;DEPK;D;G;DA;E;Customer document
+030;DEPK;D;G;DG;E;Customer credit memo
+030;DEPK;D;R;DR;E;Customer invoice
+030;DEPK;D;G;DZ;E;Customer payment
+030;DEPK;K;G;KA;E;Vendor document
+030;DEPK;K;G;KR;E;Vendor invoice
+030;DEPK;K;G;RE;E;Invoice receipt
+030;DEPK;K;G;RN;E;Net invoice receipt
+030;DEPK;K;G;SA;E;G/L account document
+030;DEPK;K;G;SB;E;G/L account posting
+030;DEPK;D;G;ZA;E;Customer invoice
+030;DEPK;D;G;ZE;E;Incoming payment
+030;DEPK;D;G;ZF;E;Factoring
+030;DEPK;K;G;ZG;E;'Line item tradepart
+030;DEPK;D;R;ZI;E;CM Proc Credit Memo
+030;DEPK;D;R;ZP;E;Payment posting
+030;DEPK;D;G;ZV;E;Payment clearing
+030;DEPK;D;R;ZZ;E;Customer invoice
+030;DEPW;D;R;AB;E;Accounting document
+030;DEPW;K;G;KR;E;Vendor invoice
+030;DEPW;D;R;SA;E;G/L account document
+030;DEPW;K;G;ZP;E;Payment posting
+030;DEPW;K;G;ZV;E;Payment clearing
+030;DEPZ;D;G;AB;E;Accounting document
+030;DEPZ;D;R;DA;E;Customer document
+030;DEPZ;D;G;DG;E;Customer credit memo
+030;DEPZ;D;R;DR;E;Customer invoice
+030;DEPZ;D;R;DV;E;Customer billing doc
+030;DEPZ;D;G;DZ;E;Customer payment
+030;DEPZ;K;G;KA;E;Vendor document
+030;DEPZ;K;G;RE;E;Invoice receipt
+030;DEPZ;K;G;RN;E;Net invoice receipt
+030;DEPZ;K;G;SB;E;G/L account posting
+030;DEPZ;D;R;ZG;E;'Line item tradepart
+030;DEPZ;D;R;ZP;E;Payment posting
+030;DERH;D;G;AB;E;Accounting document
+030;DERH;D;G;DA;E;Customer document
+030;DERH;D;G;DG;E;Customer credit memo
+030;DERH;D;R;DN;E;Customer invoice
+030;DERH;D;R;DR;E;Customer invoice
+030;DERH;D;G;DZ;E;Customer payment
+030;DERH;K;G;KA;E;Vendor document
+030;DERH;K;G;KR;E;Vendor invoice
+030;DERH;K;G;RE;E;Invoice receipt
+030;DERH;K;G;RN;E;Net invoice receipt
+030;DERH;D;R;SA;E;G/L account document
+030;DERH;K;G;SB;E;G/L account posting
+030;DERH;D;G;ZA;E;Customer invoice
+030;DERH;D;G;ZE;E;Incoming payment
+030;DERH;D;G;ZF;E;Factoring
+030;DERH;D;R;ZG;E;'Line item tradepart
+030;DERH;D;R;ZI;E;CM Proc Credit Memo
+030;DERH;D;G;ZJ;E;CM Proc Debit Memo
+030;DERH;D;R;ZP;E;Payment posting
+030;DERH;D;R;ZV;E;Payment clearing
+030;DERH;D;R;ZZ;E;Customer invoice
+030;DESF;D;R;SA;E;G/L account document
+030;DESF;D;G;ZV;E;Payment clearing
+030;DESG;D;R;AB;E;Accounting document
+030;DESG;D;G;DZ;E;Customer payment
+030;DESG;K;G;KA;E;Vendor document
+030;DESG;K;G;RE;E;Invoice receipt
+030;DESG;K;G;RN;E;Net invoice receipt
+030;DESG;D;R;SA;E;G/L account document
+030;DESG;K;G;SB;E;G/L account posting
+030;DESG;D;R;ZG;E;'Line item tradepart
+030;DESG;K;G;ZP;E;Payment posting
+030;DESG;D;G;ZV;E;Payment clearing
+030;DESK;D;R;AB;E;Accounting document
+030;DESK;D;G;DA;E;Customer document
+030;DESK;D;G;DG;E;Customer credit memo
+030;DESK;D;R;DN;E;Customer invoice
+030;DESK;D;R;DR;E;Customer invoice
+030;DESK;D;G;DZ;E;Customer payment
+030;DESK;K;G;KA;E;Vendor document
+030;DESK;K;G;KG;E;Vendor credit memo
+030;DESK;K;G;KR;E;Vendor invoice
+030;DESK;K;G;RE;E;Invoice receipt
+030;DESK;K;G;RN;E;Net invoice receipt
+030;DESK;D;G;SA;E;G/L account document
+030;DESK;K;G;SB;E;G/L account posting
+030;DESK;D;G;ZA;E;Customer invoice
+030;DESK;D;G;ZF;E;Factoring
+030;DESK;D;R;ZP;E;Payment posting
+030;DESK;D;G;ZV;E;Payment clearing
+030;DESK;D;R;ZZ;E;Customer invoice
+030;DETR;K;G;AB;E;Accounting document
+030;DETR;D;G;DA;E;Customer document
+030;DETR;D;G;DG;E;Customer credit memo
+030;DETR;D;R;DM;E;Customer Man Trdprt
+030;DETR;D;R;DR;E;Customer invoice
+030;DETR;D;G;DZ;E;Customer payment
+030;DETR;K;G;KA;E;Vendor document
+030;DETR;K;G;KR;E;Vendor invoice
+030;DETR;K;G;RE;E;Invoice receipt
+030;DETR;K;G;RN;E;Net invoice receipt
+030;DETR;D;R;SA;E;G/L account document
+030;DETR;K;G;SB;E;G/L account posting
+030;DETR;D;R;ZA;E;Customer invoice
+030;DETR;D;G;ZE;E;Incoming payment
+030;DETR;D;G;ZF;E;Factoring
+030;DETR;K;G;ZG;E;'Line item tradepart
+030;DETR;D;R;ZI;E;CM Proc Credit Memo
+030;DETR;D;R;ZP;E;Payment posting
+030;DETR;D;R;ZV;E;Payment clearing
+030;DETR;D;R;ZZ;E;Customer invoice
+030;DEWI;K;G;KA;E;Vendor document
+030;DEWI;K;G;SB;E;G/L account posting
+030;DEWT;D;G;AB;E;Accounting document
+030;DEWT;D;R;DA;E;Customer document
+030;DEWT;D;G;DG;E;Customer credit memo
+030;DEWT;D;R;DM;E;Customer Man Trdprt
+030;DEWT;D;R;DR;E;Customer invoice
+030;DEWT;D;R;DZ;E;Customer payment
+030;DEWT;K;G;KA;E;Vendor document
+030;DEWT;K;G;RE;E;Invoice receipt
+030;DEWT;K;G;RN;E;Net invoice receipt
+030;DEWT;D;G;SA;E;G/L account document
+030;DEWT;K;G;SB;E;G/L account posting
+030;DEWT;D;R;ZA;E;Customer invoice
+030;DEWT;D;G;ZE;E;Incoming payment
+030;DEWT;D;G;ZF;E;Factoring
+030;DEWT;D;R;ZG;E;'Line item tradepart
+030;DEWT;D;G;ZP;E;Payment posting
+030;DEWT;D;R;ZZ;E;Customer invoice
+030;DKCO;D;G;AB;E;Accounting document
+030;DKCO;D;G;DG;E;Customer credit memo
+030;DKCO;D;R;DR;E;Customer invoice
+030;DKCO;D;R;DV;E;Customer billing doc
+030;DKCO;D;G;DZ;E;Customer payment
+030;DKCO;K;G;KG;E;Vendor credit memo
+030;DKCO;K;G;KR;E;Vendor invoice
+030;DKCO;D;R;OD;E;customer OP transfer
+030;DKCO;K;G;RE;E;Invoice receipt
+030;DKCO;D;R;RV;E;Billing doc.transfer
+030;DKCO;D;R;SA;E;G/L account document
+030;DKCO;D;R;SB;E;G/L account posting
+030;DKCO;K;G;ZV;E;Payment clearing
+030;DKHO;D;G;AB;E;Accounting document
+030;DKHO;D;G;DG;E;Customer credit memo
+030;DKHO;D;R;DR;E;Customer invoice
+030;DKHO;D;G;DZ;E;Customer payment
+030;DKHO;K;G;KG;E;Vendor credit memo
+030;DKHO;K;G;KR;E;Vendor invoice
+030;DKHO;K;G;RE;E;Invoice receipt
+030;DKHO;K;G;SB;E;G/L account posting
+030;DKHO;K;G;ZP;E;Payment posting
+030;DKSB;D;G;AB;E;Accounting document
+030;DKSB;D;R;DR;E;Customer invoice
+030;DKSB;D;G;DV;E;Customer billing doc
+030;DKSB;D;G;DZ;E;Customer payment
+030;DKSB;K;G;KA;E;Vendor document
+030;DKSB;K;G;KG;E;Vendor credit memo
+030;DKSB;K;G;KR;E;Vendor invoice
+030;DKSB;K;G;RE;E;Invoice receipt
+030;DKSB;K;G;SA;E;G/L account document
+030;DKSB;D;R;SB;E;G/L account posting
+030;DKSB;K;G;ZV;E;Payment clearing
+030;GBAB;D;G;AB;E;Accounting document
+030;GBAB;D;R;DA;E;Customer document
+030;GBAB;D;G;DG;E;Customer credit memo
+030;GBAB;D;R;DR;E;Customer invoice
+030;GBAB;D;G;DV;E;Customer billing doc
+030;GBAB;D;G;DZ;E;Customer payment
+030;GBAB;K;G;KA;E;Vendor document
+030;GBAB;K;G;KG;E;Vendor credit memo
+030;GBAB;K;G;KR;E;Vendor invoice
+030;GBAB;K;G;KZ;E;Vendor payment
+030;GBAB;K;G;RE;E;Invoice receipt
+030;GBAB;D;G;SA;E;G/L account document
+030;GBAB;K;G;ZV;E;Payment clearing
+030;GBAB;K;G;ZY;E;Line item TP NR
+030;GBBE;D;G;AB;E;Accounting document
+030;GBBE;D;G;DA;E;Customer document
+030;GBBE;D;G;DG;E;Customer credit memo
+030;GBBE;D;R;DR;E;Customer invoice
+030;GBBE;D;R;DV;E;Customer billing doc
+030;GBBE;D;G;DZ;E;Customer payment
+030;GBBE;K;G;KA;E;Vendor document
+030;GBBE;K;G;KG;E;Vendor credit memo
+030;GBBE;K;G;KR;E;Vendor invoice
+030;GBBE;K;G;KZ;E;Vendor payment
+030;GBBE;K;G;RE;E;Invoice receipt
+030;GBBE;D;R;SA;E;G/L account document
+030;GBBE;K;G;ZV;E;Payment clearing
+030;GBBH;D;G;AB;E;Accounting document
+030;GBBH;D;G;DA;E;Customer document
+030;GBBH;D;G;DG;E;Customer credit memo
+030;GBBH;D;R;DR;E;Customer invoice
+030;GBBH;D;G;DZ;E;Customer payment
+030;GBBH;K;G;KG;E;Vendor credit memo
+030;GBBH;K;G;KR;E;Vendor invoice
+030;GBBH;K;G;KZ;E;Vendor payment
+030;GBBH;K;G;RE;E;Invoice receipt
+030;GBBH;K;G;SA;E;G/L account document
+030;GBBH;K;G;ZV;E;Payment clearing
+030;GBBM;D;R;AB;E;Accounting document
+030;GBBM;D;R;DA;E;Customer document
+030;GBBM;D;R;DR;E;Customer invoice
+030;GBBM;D;R;DV;E;Customer billing doc
+030;GBBM;D;G;DZ;E;Customer payment
+030;GBBM;K;G;KA;E;Vendor document
+030;GBBM;K;G;KG;E;Vendor credit memo
+030;GBBM;K;G;KR;E;Vendor invoice
+030;GBBM;K;G;KZ;E;Vendor payment
+030;GBBM;K;G;RE;E;Invoice receipt
+030;GBBM;K;G;SA;E;G/L account document
+030;GBBM;K;G;ZV;E;Payment clearing
+030;GBCA;K;G;SA;E;G/L account document
+030;GBCA;K;G;ZP;E;Payment posting
+030;GBCD;D;G;AB;E;Accounting document
+030;GBCD;D;R;DV;E;Customer billing doc
+030;GBCD;D;R;OD;E;customer OP transfer
+030;GBCE;D;G;AB;E;Accounting document
+030;GBCE;D;R;DA;E;Customer document
+030;GBCE;D;G;DG;E;Customer credit memo
+030;GBCE;D;R;DR;E;Customer invoice
+030;GBCE;D;G;DZ;E;Customer payment
+030;GBCE;K;G;KG;E;Vendor credit memo
+030;GBCE;K;G;KR;E;Vendor invoice
+030;GBCE;K;G;KZ;E;Vendor payment
+030;GBCE;K;G;RN;E;Net invoice receipt
+030;GBCE;K;G;SA;E;G/L account document
+030;GBCE;K;G;ZV;E;Payment clearing
+030;GBCE;D;G;ZY;E;Line item TP NR
+030;GBCL;D;G;AB;E;Accounting document
+030;GBCL;D;G;DA;E;Customer document
+030;GBCL;D;G;DG;E;Customer credit memo
+030;GBCL;D;R;DR;E;Customer invoice
+030;GBCL;D;R;DV;E;Customer billing doc
+030;GBCL;D;R;DZ;E;Customer payment
+030;GBCL;K;G;KA;E;Vendor document
+030;GBCL;K;G;KG;E;Vendor credit memo
+030;GBCL;K;G;KR;E;Vendor invoice
+030;GBCL;K;G;KZ;E;Vendor payment
+030;GBCL;K;G;RE;E;Invoice receipt
+030;GBCL;K;G;SA;E;G/L account document
+030;GBCL;K;G;ZV;E;Payment clearing
+030;GBCX;D;R;AB;E;Accounting document
+030;GBCX;D;R;DR;E;Customer invoice
+030;GBCX;D;G;DZ;E;Customer payment
+030;GBCX;K;G;KG;E;Vendor credit memo
+030;GBCX;K;G;KR;E;Vendor invoice
+030;GBCX;K;G;RE;E;Invoice receipt
+030;GBCX;K;G;SA;E;G/L account document
+030;GBCX;K;G;ZP;E;Payment posting
+030;GBCX;K;G;ZY;E;Line item TP NR
+030;GBEY;D;G;AB;E;Accounting document
+030;GBEY;D;G;DA;E;Customer document
+030;GBEY;D;G;DG;E;Customer credit memo
+030;GBEY;D;R;DR;E;Customer invoice
+030;GBEY;D;R;DV;E;Customer billing doc
+030;GBEY;D;G;DZ;E;Customer payment
+030;GBEY;K;G;KA;E;Vendor document
+030;GBEY;K;G;KG;E;Vendor credit memo
+030;GBEY;K;G;KR;E;Vendor invoice
+030;GBEY;K;G;KZ;E;Vendor payment
+030;GBEY;D;G;OD;E;customer OP transfer
+030;GBEY;K;G;RE;E;Invoice receipt
+030;GBEY;K;G;SA;E;G/L account document
+030;GBEY;K;G;ZV;E;Payment clearing
+030;GBEY;K;G;ZY;E;Line item TP NR
+030;GBFE;D;G;AB;E;Accounting document
+030;GBFE;D;R;DA;E;Customer document
+030;GBFE;D;G;DG;E;Customer credit memo
+030;GBFE;D;R;DR;E;Customer invoice
+030;GBFE;D;R;DV;E;Customer billing doc
+030;GBFE;D;G;DZ;E;Customer payment
+030;GBFE;K;G;KA;E;Vendor document
+030;GBFE;K;G;KG;E;Vendor credit memo
+030;GBFE;K;G;KR;E;Vendor invoice
+030;GBFE;K;G;KZ;E;Vendor payment
+030;GBFE;K;G;RE;E;Invoice receipt
+030;GBFE;K;G;SA;E;G/L account document
+030;GBFE;K;G;ZV;E;Payment clearing
+030;GBFE;K;G;ZY;E;Line item TP NR
+030;GBFO;D;G;AB;E;Accounting document
+030;GBFO;D;R;DA;E;Customer document
+030;GBFO;D;G;DG;E;Customer credit memo
+030;GBFO;D;R;DR;E;Customer invoice
+030;GBFO;D;R;DV;E;Customer billing doc
+030;GBFO;D;G;DZ;E;Customer payment
+030;GBFO;K;G;KA;E;Vendor document
+030;GBFO;K;G;KG;E;Vendor credit memo
+030;GBFO;K;G;KR;E;Vendor invoice
+030;GBFO;K;G;KZ;E;Vendor payment
+030;GBFO;K;G;RE;E;Invoice receipt
+030;GBFO;K;G;SA;E;G/L account document
+030;GBFO;K;G;ZV;E;Payment clearing
+030;GBFO;K;G;ZY;E;Line item TP NR
+030;GBHG;D;R;AB;E;Accounting document
+030;GBHG;D;R;DA;E;Customer document
+030;GBHG;D;G;DG;E;Customer credit memo
+030;GBHG;D;R;DR;E;Customer invoice
+030;GBHG;D;G;DZ;E;Customer payment
+030;GBHG;D;G;KA;E;Vendor document
+030;GBHG;K;G;KG;E;Vendor credit memo
+030;GBHG;K;G;KR;E;Vendor invoice
+030;GBHG;K;G;KZ;E;Vendor payment
+030;GBHG;K;G;RE;E;Invoice receipt
+030;GBHG;D;R;SA;E;G/L account document
+030;GBHG;K;G;ZP;E;Payment posting
+030;GBHG;D;G;ZY;E;Line item TP NR
+030;GBHN;D;R;AB;E;Accounting document
+030;GBHN;D;R;DA;E;Customer document
+030;GBHN;D;R;DV;E;Customer billing doc
+030;GBHN;D;G;DZ;E;Customer payment
+030;GBHN;K;G;KA;E;Vendor document
+030;GBHN;K;G;RE;E;Invoice receipt
+030;GBHN;K;G;SA;E;G/L account document
+030;GBHN;K;G;ZV;E;Payment clearing
+030;GBHN;K;G;ZY;E;Line item TP NR
+030;GBHP;D;G;AB;E;Accounting document
+030;GBHP;D;R;DA;E;Customer document
+030;GBHP;D;G;DG;E;Customer credit memo
+030;GBHP;D;R;DR;E;Customer invoice
+030;GBHP;D;G;DZ;E;Customer payment
+030;GBHP;K;G;KA;E;Vendor document
+030;GBHP;K;G;KG;E;Vendor credit memo
+030;GBHP;K;G;KR;E;Vendor invoice
+030;GBHP;K;G;KZ;E;Vendor payment
+030;GBHP;K;G;RE;E;Invoice receipt
+030;GBHP;K;G;SA;E;G/L account document
+030;GBHP;K;G;ZP;E;Payment posting
+030;GBHP;D;G;ZY;E;Line item TP NR
+030;GBHY;D;R;AB;E;Accounting document
+030;GBHY;D;R;DA;E;Customer document
+030;GBHY;D;G;DG;E;Customer credit memo
+030;GBHY;D;R;DR;E;Customer invoice
+030;GBHY;D;R;DV;E;Customer billing doc
+030;GBHY;D;G;DZ;E;Customer payment
+030;GBHY;K;G;KA;E;Vendor document
+030;GBHY;K;G;KG;E;Vendor credit memo
+030;GBHY;K;G;KR;E;Vendor invoice
+030;GBHY;K;G;KZ;E;Vendor payment
+030;GBHY;K;G;RE;E;Invoice receipt
+030;GBHY;D;G;SA;E;G/L account document
+030;GBHY;K;G;ZV;E;Payment clearing
+030;GBHY;K;G;ZY;E;Line item TP NR
+030;GBIG;D;G;AB;E;Accounting document
+030;GBIG;D;G;DG;E;Customer credit memo
+030;GBIG;D;R;DR;E;Customer invoice
+030;GBIG;D;G;DZ;E;Customer payment
+030;GBIG;K;G;KG;E;Vendor credit memo
+030;GBIG;K;G;KR;E;Vendor invoice
+030;GBIG;K;G;RE;E;Invoice receipt
+030;GBIG;K;G;SA;E;G/L account document
+030;GBIG;K;G;ZV;E;Payment clearing
+030;GBIU;D;G;AB;E;Accounting document
+030;GBIU;D;G;DG;E;Customer credit memo
+030;GBIU;D;R;DR;E;Customer invoice
+030;GBIU;D;G;DZ;E;Customer payment
+030;GBIU;K;G;KG;E;Vendor credit memo
+030;GBIU;K;G;KR;E;Vendor invoice
+030;GBIU;K;G;RE;E;Invoice receipt
+030;GBIU;K;G;SA;E;G/L account document
+030;GBIU;K;G;ZV;E;Payment clearing
+030;GBIV;K;G;AB;E;Accounting document
+030;GBIV;K;G;KA;E;Vendor document
+030;GBIV;K;G;KG;E;Vendor credit memo
+030;GBIV;K;G;KR;E;Vendor invoice
+030;GBIV;K;G;RE;E;Invoice receipt
+030;GBIV;K;G;SA;E;G/L account document
+030;GBIV;K;G;ZV;E;Payment clearing
+030;GBKM;D;R;AB;E;Accounting document
+030;GBKM;D;R;DA;E;Customer document
+030;GBKM;D;G;DG;E;Customer credit memo
+030;GBKM;D;R;DR;E;Customer invoice
+030;GBKM;D;G;DZ;E;Customer payment
+030;GBKM;K;G;KA;E;Vendor document
+030;GBKM;K;G;KG;E;Vendor credit memo
+030;GBKM;K;G;KR;E;Vendor invoice
+030;GBKM;K;G;KZ;E;Vendor payment
+030;GBKM;K;G;RE;E;Invoice receipt
+030;GBKM;K;G;RN;E;Net invoice receipt
+030;GBKM;D;R;SA;E;G/L account document
+030;GBKM;K;G;ZP;E;Payment posting
+030;GBKM;K;G;ZY;E;Line item TP NR
+030;GBLA;D;G;AB;E;Accounting document
+030;GBLA;D;R;DA;E;Customer document
+030;GBLA;D;G;DG;E;Customer credit memo
+030;GBLA;D;R;DR;E;Customer invoice
+030;GBLA;D;G;DV;E;Customer billing doc
+030;GBLA;D;G;DZ;E;Customer payment
+030;GBLA;K;G;KG;E;Vendor credit memo
+030;GBLA;K;G;KR;E;Vendor invoice
+030;GBLA;K;G;KZ;E;Vendor payment
+030;GBLA;K;G;RE;E;Invoice receipt
+030;GBLA;K;G;SA;E;G/L account document
+030;GBLA;K;G;ZV;E;Payment clearing
+030;GBLG;D;G;AB;E;Accounting document
+030;GBLG;D;G;DG;E;Customer credit memo
+030;GBLG;D;R;DR;E;Customer invoice
+030;GBLG;D;R;DV;E;Customer billing doc
+030;GBLG;D;G;DZ;E;Customer payment
+030;GBLG;K;G;KA;E;Vendor document
+030;GBLG;K;G;KG;E;Vendor credit memo
+030;GBLG;K;G;KR;E;Vendor invoice
+030;GBLG;K;G;KZ;E;Vendor payment
+030;GBLG;K;G;RN;E;Net invoice receipt
+030;GBLG;K;G;SA;E;G/L account document
+030;GBLG;K;G;ZP;E;Payment posting
+030;GBLK;D;R;AB;E;Accounting document
+030;GBLK;D;G;DA;E;Customer document
+030;GBLK;D;G;DG;E;Customer credit memo
+030;GBLK;D;R;DR;E;Customer invoice
+030;GBLK;D;R;DV;E;Customer billing doc
+030;GBLK;D;G;DZ;E;Customer payment
+030;GBLK;K;G;KA;E;Vendor document
+030;GBLK;K;G;KG;E;Vendor credit memo
+030;GBLK;K;G;KR;E;Vendor invoice
+030;GBLK;K;G;KZ;E;Vendor payment
+030;GBLK;K;G;RE;E;Invoice receipt
+030;GBLK;K;G;SA;E;G/L account document
+030;GBLK;K;G;ZV;E;Payment clearing
+030;GBLK;K;G;ZY;E;Line item TP NR
+030;GBLO;D;G;AB;E;Accounting document
+030;GBLO;D;R;DA;E;Customer document
+030;GBLO;D;R;DN;E;Customer invoice
+030;GBLO;D;R;DR;E;Customer invoice
+030;GBLO;D;R;DV;E;Customer billing doc
+030;GBLO;D;G;DZ;E;Customer payment
+030;GBLO;K;G;KA;E;Vendor document
+030;GBLO;K;G;KG;E;Vendor credit memo
+030;GBLO;K;G;KR;E;Vendor invoice
+030;GBLO;K;G;KZ;E;Vendor payment
+030;GBLO;K;G;RE;E;Invoice receipt
+030;GBLO;K;G;SA;E;G/L account document
+030;GBLO;K;G;ZV;E;Payment clearing
+030;GBLO;K;G;ZY;E;Line item TP NR
+030;GBLV;D;G;AB;E;Accounting document
+030;GBLV;D;R;DA;E;Customer document
+030;GBLV;D;G;DG;E;Customer credit memo
+030;GBLV;D;R;DR;E;Customer invoice
+030;GBLV;D;R;DV;E;Customer billing doc
+030;GBLV;D;G;DZ;E;Customer payment
+030;GBLV;K;G;KG;E;Vendor credit memo
+030;GBLV;K;G;KR;E;Vendor invoice
+030;GBLV;K;G;KZ;E;Vendor payment
+030;GBLV;K;G;RE;E;Invoice receipt
+030;GBLV;K;G;SA;E;G/L account document
+030;GBLV;K;G;ZV;E;Payment clearing
+030;GBLV;K;G;ZY;E;Line item TP NR
+030;GBMC;D;G;AB;E;Accounting document
+030;GBMC;D;R;DA;E;Customer document
+030;GBMC;D;G;DG;E;Customer credit memo
+030;GBMC;D;R;DR;E;Customer invoice
+030;GBMC;D;R;DV;E;Customer billing doc
+030;GBMC;D;G;DZ;E;Customer payment
+030;GBMC;K;G;KG;E;Vendor credit memo
+030;GBMC;K;G;KR;E;Vendor invoice
+030;GBMC;K;G;RE;E;Invoice receipt
+030;GBMC;K;G;SA;E;G/L account document
+030;GBMC;K;G;ZV;E;Payment clearing
+030;GBMC;D;R;ZY;E;Line item TP NR
+030;GBNC;D;G;AB;E;Accounting document
+030;GBNC;D;R;DA;E;Customer document
+030;GBNC;D;G;DG;E;Customer credit memo
+030;GBNC;D;R;DR;E;Customer invoice
+030;GBNC;D;G;DZ;E;Customer payment
+030;GBNC;K;G;KG;E;Vendor credit memo
+030;GBNC;K;G;KR;E;Vendor invoice
+030;GBNC;K;G;KZ;E;Vendor payment
+030;GBNC;D;R;OD;E;customer OP transfer
+030;GBNC;K;G;RE;E;Invoice receipt
+030;GBNC;K;G;SA;E;G/L account document
+030;GBNC;K;G;ZV;E;Payment clearing
+030;GBNC;D;G;ZY;E;Line item TP NR
+030;GBPH;K;G;AB;E;Accounting document
+030;GBPH;D;G;DG;E;Customer credit memo
+030;GBPH;D;R;DR;E;Customer invoice
+030;GBPH;D;G;DZ;E;Customer payment
+030;GBPH;K;G;KG;E;Vendor credit memo
+030;GBPH;K;G;KR;E;Vendor invoice
+030;GBPH;K;G;KZ;E;Vendor payment
+030;GBPH;K;G;SA;E;G/L account document
+030;GBPH;K;G;ZV;E;Payment clearing
+030;GBRA;D;G;AB;E;Accounting document
+030;GBRA;D;R;DR;E;Customer invoice
+030;GBRA;D;G;DZ;E;Customer payment
+030;GBRA;K;G;KG;E;Vendor credit memo
+030;GBRA;K;G;KR;E;Vendor invoice
+030;GBRA;K;G;KZ;E;Vendor payment
+030;GBRA;K;G;RE;E;Invoice receipt
+030;GBRA;K;G;SA;E;G/L account document
+030;GBRA;K;G;ZV;E;Payment clearing
+030;GBRA;K;G;ZY;E;Line item TP NR
+030;GBRN;K;G;KR;E;Vendor invoice
+030;GBSC;D;R;AB;E;Accounting document
+030;GBSC;D;G;DG;E;Customer credit memo
+030;GBSC;D;R;DR;E;Customer invoice
+030;GBSC;D;G;DZ;E;Customer payment
+030;GBSC;K;G;KA;E;Vendor document
+030;GBSC;K;G;KG;E;Vendor credit memo
+030;GBSC;K;G;KR;E;Vendor invoice
+030;GBSC;K;G;KZ;E;Vendor payment
+030;GBSC;K;G;RE;E;Invoice receipt
+030;GBSC;K;G;SA;E;G/L account document
+030;GBSC;K;G;ZP;E;Payment posting
+030;GBSN;D;R;AB;E;Accounting document
+030;GBSN;D;R;DA;E;Customer document
+030;GBSN;D;R;DR;E;Customer invoice
+030;GBSN;D;G;DZ;E;Customer payment
+030;GBSN;K;G;KG;E;Vendor credit memo
+030;GBSN;K;G;KR;E;Vendor invoice
+030;GBSN;D;R;OD;E;customer OP transfer
+030;GBSN;K;G;RE;E;Invoice receipt
+030;GBSN;K;G;SA;E;G/L account document
+030;GBSN;K;G;ZV;E;Payment clearing
+030;GBSP;D;G;AB;E;Accounting document
+030;GBSP;D;R;DA;E;Customer document
+030;GBSP;D;G;DG;E;Customer credit memo
+030;GBSP;D;R;DR;E;Customer invoice
+030;GBSP;D;R;DV;E;Customer billing doc
+030;GBSP;D;R;DZ;E;Customer payment
+030;GBSP;K;G;KG;E;Vendor credit memo
+030;GBSP;K;G;KR;E;Vendor invoice
+030;GBSP;K;G;KZ;E;Vendor payment
+030;GBSP;D;R;OD;E;customer OP transfer
+030;GBSP;K;G;RE;E;Invoice receipt
+030;GBSP;K;G;SA;E;G/L account document
+030;GBSP;K;G;ZV;E;Payment clearing
+030;GBSP;D;R;ZY;E;Line item TP NR
+030;GBSR;K;G;SA;E;G/L account document
+030;GBSR;K;G;ZV;E;Payment clearing
+030;GBSW;D;G;AB;E;Accounting document
+030;GBSW;D;G;DA;E;Customer document
+030;GBSW;D;G;DG;E;Customer credit memo
+030;GBSW;D;R;DR;E;Customer invoice
+030;GBSW;D;G;DS;E;Customer SBS invoice
+030;GBSW;D;R;DV;E;Customer billing doc
+030;GBSW;D;G;DZ;E;Customer payment
+030;GBSW;K;G;KG;E;Vendor credit memo
+030;GBSW;K;G;KR;E;Vendor invoice
+030;GBSW;K;G;KZ;E;Vendor payment
+030;GBSW;K;G;RE;E;Invoice receipt
+030;GBSW;K;G;SA;E;G/L account document
+030;GBSW;K;G;ZV;E;Payment clearing
+030;GBSW;K;G;ZY;E;Line item TP NR
+030;GRHO;K;G;AB;E;Accounting document
+030;GRHO;K;G;KG;E;Vendor credit memo
+030;GRHO;K;G;KR;E;Vendor invoice
+030;GRHO;K;G;KZ;E;Vendor payment
+030;GRHO;K;G;RA;E;Sub.cred.memo stlmt
+030;GRHO;K;G;RE;E;Invoice receipt
+030;GRHO;K;G;SA;E;G/L account document
+030;GRHO;K;G;ZV;E;Payment clearing
+030;GRKO;D;R;AB;E;Accounting document
+030;GRKO;D;G;DA;E;Customer document
+030;GRKO;D;G;DG;E;Customer credit memo
+030;GRKO;D;R;DR;E;Customer invoice
+030;GRKO;D;R;DV;E;Customer billing doc
+030;GRKO;D;G;DZ;E;Customer payment
+030;GRKO;K;G;KA;E;Vendor document
+030;GRKO;K;G;KG;E;Vendor credit memo
+030;GRKO;K;G;KR;E;Vendor invoice
+030;GRKO;K;G;KZ;E;Vendor payment
+030;GRKO;K;G;RA;E;Sub.cred.memo stlmt
+030;GRKO;K;G;RE;E;Invoice receipt
+030;GRKO;D;R;SA;E;G/L account document
+030;GRKO;K;G;ZV;E;Payment clearing
+030;GRTH;D;G;AB;E;Accounting document
+030;GRTH;D;G;DA;E;Customer document
+030;GRTH;D;R;DR;E;Customer invoice
+030;GRTH;D;R;DV;E;Customer billing doc
+030;GRTH;D;R;DZ;E;Customer payment
+030;GRTH;K;G;KA;E;Vendor document
+030;GRTH;K;G;KG;E;Vendor credit memo
+030;GRTH;K;G;KR;E;Vendor invoice
+030;GRTH;K;G;KZ;E;Vendor payment
+030;GRTH;D;R;OD;E;customer OP transfer
+030;GRTH;K;G;OK;E;supplier OP transfer
+030;GRTH;K;G;RA;E;Sub.cred.memo stlmt
+030;GRTH;K;G;RE;E;Invoice receipt
+030;GRTH;D;G;SA;E;G/L account document
+030;GRTH;K;G;ZP;E;Payment posting
+030;HRBE;D;R;AB;E;Accounting document
+030;HRBE;D;G;D1;E;Cust. paym./cl. w. V
+030;HRBE;D;R;DA;E;Customer document
+030;HRBE;D;G;DG;E;Customer credit memo
+030;HRBE;D;R;DR;E;Customer invoice
+030;HRBE;D;R;DV;E;Customer billing doc
+030;HRBE;D;G;DZ;E;Customer payment
+030;HRBE;K;G;KG;E;Vendor credit memo
+030;HRBE;K;G;KR;E;Vendor invoice
+030;HRBE;K;G;KZ;E;Vendor payment
+030;HRBE;D;R;OD;E;customer OP transfer
+030;HRBE;K;G;OK;E;supplier OP transfer
+030;HRBE;K;G;RE;E;Invoice receipt
+030;HRBE;K;G;RN;E;Net invoice receipt
+030;HRBE;D;G;ZE;E;Incoming payment
+030;HRBE;K;G;ZQ;E;Payment posting
+030;HRBP;D;G;AB;E;Accounting document
+030;HRBP;D;R;D1;E;Cust. paym./cl. w. V
+030;HRBP;D;R;DA;E;Customer document
+030;HRBP;D;G;DV;E;Customer billing doc
+030;HRBP;D;G;DZ;E;Customer payment
+030;HRBP;K;G;KG;E;Vendor credit memo
+030;HRBP;K;G;KR;E;Vendor invoice
+030;HRBP;K;G;KZ;E;Vendor payment
+030;HRBP;D;G;OD;E;customer OP transfer
+030;HRBP;K;G;OK;E;supplier OP transfer
+030;HRBP;K;G;RE;E;Invoice receipt
+030;HRBP;K;G;RN;E;Net invoice receipt
+030;HRBP;D;G;ZE;E;Incoming payment
+030;HRBP;K;G;ZQ;E;Payment posting
+030;HRCO;D;G;AB;E;Accounting document
+030;HRCO;D;G;CA;E;Cash book
+030;HRCO;D;G;D1;E;Cust. paym./cl. w. V
+030;HRCO;D;G;DA;E;Customer document
+030;HRCO;D;R;DV;E;Customer billing doc
+030;HRCO;D;G;DZ;E;Customer payment
+030;HRCO;K;G;KG;E;Vendor credit memo
+030;HRCO;K;G;KR;E;Vendor invoice
+030;HRCO;K;G;KZ;E;Vendor payment
+030;HRCO;D;R;OD;E;customer OP transfer
+030;HRCO;K;G;OK;E;supplier OP transfer
+030;HRCO;K;G;RN;E;Net invoice receipt
+030;HRCO;D;G;SA;E;G/L account document
+030;HRCO;D;G;ZE;E;Incoming payment
+030;HRCO;K;G;ZQ;E;Payment posting
+030;HUFZ;D;R;AB;E;Accounting document
+030;HUFZ;D;G;DG;E;Customer credit memo
+030;HUFZ;D;R;DN;E;Customer invoice
+030;HUFZ;D;R;DR;E;Customer invoice
+030;HUFZ;D;G;DT;E;Customer THETIS inv.
+030;HUFZ;D;R;DV;E;Customer billing doc
+030;HUFZ;D;G;DZ;E;Customer payment
+030;HUFZ;K;G;KA;E;Vendor document
+030;HUFZ;K;G;KG;E;Vendor credit memo
+030;HUFZ;K;G;KR;E;Vendor invoice
+030;HUFZ;K;G;KZ;E;Vendor payment
+030;HUFZ;D;G;OD;E;customer OP transfer
+030;HUFZ;K;G;OK;E;supplier OP transfer
+030;HUFZ;K;G;RE;E;Invoice receipt
+030;HUFZ;D;G;SA;E;G/L account document
+030;HUFZ;D;R;SB;E;G/L account posting
+030;HUFZ;D;R;ZT;E;Outgoing FI Inv. HU
+030;HUFZ;K;G;ZU;E;Invoice receipt - HU
+030;HUFZ;K;G;ZV;E;Payment clearing
+030;HUGO;D;G;AB;E;Accounting document
+030;HUGO;D;G;DG;E;Customer credit memo
+030;HUGO;D;G;DV;E;Customer billing doc
+030;HUGO;D;G;DZ;E;Customer payment
+030;HUGO;K;G;KA;E;Vendor document
+030;HUGO;K;G;KR;E;Vendor invoice
+030;HUGO;K;G;KZ;E;Vendor payment
+030;HUGO;K;G;RA;E;Sub.cred.memo stlmt
+030;HUGO;K;G;RE;E;Invoice receipt
+030;HUGO;D;G;SA;E;G/L account document
+030;HUGO;D;R;SB;E;G/L account posting
+030;HUGO;D;R;ZT;E;Outgoing FI Inv. HU
+030;HUGO;K;G;ZU;E;Invoice receipt - HU
+030;HUGO;K;G;ZV;E;Payment clearing
+030;HUHO;D;R;AB;E;Accounting document
+030;HUHO;D;G;DG;E;Customer credit memo
+030;HUHO;D;G;DZ;E;Customer payment
+030;HUHO;K;G;KA;E;Vendor document
+030;HUHO;K;G;KZ;E;Vendor payment
+030;HUHO;K;G;RA;E;Sub.cred.memo stlmt
+030;HUHO;K;G;RE;E;Invoice receipt
+030;HUHO;K;G;SB;E;G/L account posting
+030;HUHO;K;G;ZP;E;Payment posting
+030;HUHO;D;R;ZT;E;Outgoing FI Inv. HU
+030;HUHO;K;G;ZU;E;Invoice receipt - HU
+030;HUNA;D;G;AB;E;Accounting document
+030;HUNA;D;G;DG;E;Customer credit memo
+030;HUNA;D;R;DV;E;Customer billing doc
+030;HUNA;D;G;DZ;E;Customer payment
+030;HUNA;K;G;KA;E;Vendor document
+030;HUNA;K;G;KR;E;Vendor invoice
+030;HUNA;K;G;KZ;E;Vendor payment
+030;HUNA;K;G;RE;E;Invoice receipt
+030;HUNA;K;G;RN;E;Net invoice receipt
+030;HUNA;D;R;SA;E;G/L account document
+030;HUNA;K;G;SB;E;G/L account posting
+030;HUNA;D;R;ZT;E;Outgoing FI Inv. HU
+030;HUNA;K;G;ZU;E;Invoice receipt - HU
+030;HUNA;K;G;ZV;E;Payment clearing
+030;HUSC;D;G;AB;E;Accounting document
+030;HUSC;D;G;DG;E;Customer credit memo
+030;HUSC;D;R;DV;E;Customer billing doc
+030;HUSC;D;G;DZ;E;Customer payment
+030;HUSC;K;G;KA;E;Vendor document
+030;HUSC;K;G;KZ;E;Vendor payment
+030;HUSC;K;G;RE;E;Invoice receipt
+030;HUSC;D;G;SA;E;G/L account document
+030;HUSC;D;G;SB;E;G/L account posting
+030;HUSC;K;G;ZG;E;'Line item tradepart
+030;HUSC;D;R;ZT;E;Outgoing FI Inv. HU
+030;HUSC;K;G;ZU;E;Invoice receipt - HU
+030;HUSC;K;G;ZV;E;Payment clearing
+030;ROGH;D;G;AB;E;Accounting document
+030;ROGH;D;G;DG;E;Customer credit memo
+030;ROGH;D;R;DR;E;Customer invoice
+030;ROGH;D;G;DV;E;Customer billing doc
+030;ROGH;D;G;DZ;E;Customer payment
+030;ROGH;K;G;KG;E;Vendor credit memo
+030;ROGH;K;G;KR;E;Vendor invoice
+030;ROGH;K;G;KZ;E;Vendor payment
+030;ROGH;D;R;OD;E;customer OP transfer
+030;ROGH;K;G;RE;E;Invoice receipt
+030;ROGH;D;G;SA;E;G/L account document
+030;RORE;D;G;AB;E;Accounting document
+030;RORE;D;G;DG;E;Customer credit memo
+030;RORE;D;R;DR;E;Customer invoice
+030;RORE;D;R;DV;E;Customer billing doc
+030;RORE;D;G;DZ;E;Customer payment
+030;RORE;K;G;KG;E;Vendor credit memo
+030;RORE;K;G;KR;E;Vendor invoice
+030;RORE;K;G;KZ;E;Vendor payment
+030;RORE;D;R;OD;E;customer OP transfer
+030;RORE;K;G;OK;E;supplier OP transfer
+030;RORE;K;G;RE;E;Invoice receipt
+030;RORO;D;R;AB;E;Accounting document
+030;RORO;D;R;DR;E;Customer invoice
+030;RORO;D;R;DV;E;Customer billing doc
+030;RORO;D;G;DZ;E;Customer payment
+030;RORO;K;G;KR;E;Vendor invoice
+030;RORO;K;G;KZ;E;Vendor payment
+030;RORO;K;G;RE;E;Invoice receipt
+030;RORO;K;G;ZM;E;Invoice receipt - RO
+030;RORO;D;R;ZN;E;Outgoing FI Inv. RO
+030;RORO;K;G;ZP;E;Payment posting
+030;ROZA;D;G;AB;E;Accounting document
+030;ROZA;K;G;CA;E;Cash book
+030;ROZA;D;R;DA;E;Customer document
+030;ROZA;D;G;DG;E;Customer credit memo
+030;ROZA;D;R;DR;E;Customer invoice
+030;ROZA;D;G;DZ;E;Customer payment
+030;ROZA;K;G;KA;E;Vendor document
+030;ROZA;K;G;KG;E;Vendor credit memo
+030;ROZA;K;G;KR;E;Vendor invoice
+030;ROZA;K;G;KZ;E;Vendor payment
+030;ROZA;D;R;OD;E;customer OP transfer
+030;ROZA;K;G;OK;E;supplier OP transfer
+030;ROZA;K;G;RE;E;Invoice receipt
+030;SKOE;D;G;AB;E;Accounting document
+030;SKOE;D;G;DG;E;Customer credit memo
+030;SKOE;D;R;DR;E;Customer invoice
+030;SKOE;D;R;DV;E;Customer billing doc
+030;SKOE;D;G;DZ;E;Customer payment
+030;SKOE;K;G;KG;E;Vendor credit memo
+030;SKOE;K;G;KR;E;Vendor invoice
+030;SKOE;K;G;RE;E;Invoice receipt
+030;SKOE;D;G;SB;E;G/L account posting
+030;SKOE;K;G;ZP;E;Payment posting
+030;SKRE;D;G;AB;E;Accounting document
+030;SKRE;D;R;DR;E;Customer invoice
+030;SKRE;D;R;DV;E;Customer billing doc
+030;SKRE;D;G;DZ;E;Customer payment
+030;SKRE;K;G;KG;E;Vendor credit memo
+030;SKRE;K;G;KR;E;Vendor invoice
+030;SKRE;K;G;SB;E;G/L account posting
+030;SKRE;K;G;ZP;E;Payment posting
