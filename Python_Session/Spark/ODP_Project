@@ -1,0 +1,5 @@
+Description : We'll be receiving AP (Amount Payable), AR (Amount Receivable) and Master Files (Supplier Master, Payment Term Master, Customer Master) files on daily basis in .csv format from different ERP systems.
+Task : Our task is to read these .csv files, perform entry level validation, clean this files, merge the files of same file type from different erp systems and load the data into Master and Transactional tables.
+
+1. File Validation Lambda with S3 Trigger : 
+  This lambda will run whenever there is file places in the odp-stg-bucket sources folder. This will check if files header count is matching with defined header counts. This will also check if the files naming cleature is matching as per the defined rules. If all test cases are passed, then we'll move the file in odp-working-cuket/odp/raw folder. We'll also have to make the entry of the file in database.
